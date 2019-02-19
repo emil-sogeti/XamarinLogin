@@ -1,0 +1,12 @@
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\bin\Debug\netstandard2.0\LoginApp.deps.json
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\bin\Debug\netstandard2.0\LoginApp.dll
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\bin\Debug\netstandard2.0\LoginApp.pdb
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.AssemblyInfoInputs.cache
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.AssemblyInfo.cs
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.dll
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.pdb
+C:\Users\eanderss\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.csprojAssemblyReference.cache
