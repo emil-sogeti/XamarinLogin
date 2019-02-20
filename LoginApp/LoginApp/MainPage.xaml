@@ -3,16 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:LoginApp"
              x:Class="LoginApp.MainPage">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary Source="Styles/MyStyles.xaml" />
+    </ContentPage.Resources>
 
-    <StackLayout Padding="10" BackgroundColor="#c4e7ff">
-
-        <Label Text="Inloggning" HorizontalTextAlignment="Center" FontSize="Large" Margin="0, 15"/>
-
-        <Entry Text="{Binding Email}" Placeholder="E-Post" BackgroundColor="#BBFFFFFF" />
-
-        <Entry Text="{Binding Password}" Placeholder="Lösenord" IsPassword="True" BackgroundColor="#CCFFFFFF" />
-
-        <Button Text="Login" Command="{Binding LoginCommand}" Margin="10, 25" BorderRadius="25"/>
+    <StackLayout>
+        <Label Text="Inloggning" Style="{StaticResource headerLbl}" />
+        <Entry Text="{Binding Email}" Placeholder="E-Post" />
+        <Entry Text="{Binding Password}" Placeholder="Lösenord" IsPassword="True" />
+        <Button Text="Login" Command="{Binding LoginCommand}" />
     </StackLayout>
 
 </ContentPage>

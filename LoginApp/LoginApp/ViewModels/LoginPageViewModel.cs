@@ -28,7 +28,8 @@ namespace LoginApp.ViewModels
         string password = string.Empty;
         bool allowLogin = false;
         
-        public string Email {
+        public string Email
+        {
             get => email;
             set {
                 email = value;
@@ -42,7 +43,8 @@ namespace LoginApp.ViewModels
                 }
             }
         }
-        public string Password {
+        public string Password
+        {
             get => password;
             set {
                 password = value;
