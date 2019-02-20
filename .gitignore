@@ -1,0 +1,10 @@
+
+.vs/
+
+LoginApp/LoginApp.Android/bin/
+
+LoginApp/LoginApp.Android/obj/
+
+LoginApp/LoginApp.iOS/bin/
+
+LoginApp/LoginApp.iOS/obj/
